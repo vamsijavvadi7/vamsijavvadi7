@@ -49,15 +49,15 @@
 
 ## 🚀 Projects  
 ### 📌 **Electronic Health Record System**  
-🛠 **Angular, Java, SpringBoot, TypeScript** | **120 hours** | [GitHub Repo](#)  
+🛠 **Angular, Java, SpringBoot, TypeScript** | **120 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/ehr)  
 - Built a scalable **EHR system** with **role-based access, patient registration, scheduling**, and **Kafka integration**.  
 
 ### 📌 **Dental Labs Mobile App**  
-🛠 **Flutter, Golang, MySQL** | **80 hours** | [GitHub Repo](#)  
+🛠 **Flutter, Golang, MySQL** | **80 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/DentalLab-Pro)  
 - Developed an **Android app** improving faculty-student interaction by **40%** and clinical competencies by **60%**.  
 
 ### 📌 **ReactMovie Web Application**  
-🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](#)  
+🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/React-Movie-App)  
 - Integrated a **live movie database of 1M+ movies** with lazy loading & pagination for seamless performance.  
 
 ---
