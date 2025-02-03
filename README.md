@@ -64,37 +64,37 @@
 - Users can explore **detailed movie data, cast, ratings, and trending content** in a seamless UI.  
 
 ### 📌 **Teaching Assistant Recruitment Portal**  
-🛠 **Java, JSP, MySQL, HTML, CSS, JavaScript** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/TA))  
+🛠 **Java, JSP, MySQL, HTML, CSS, JavaScript** | [GitHub Repo](https://github.com/vamsijavvadi7/TA) 
 - Developed a **web application for TA recruitment**, improving **candidate selection & hiring processes**.  
 - Enabled seamless communication between **students, committees, and administrators**.  
 
 ### 📌 **AI Voice-Controlled Snake Game**  
-🛠 **ReactJS, Material-UI, Teachable Machine** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/ml-snake-game-main))  
+🛠 **ReactJS, Material-UI, Teachable Machine** | [GitHub Repo](https://github.com/vamsijavvadi7/ml-snake-game-main)
 - Engineered a **hands-free Snake game** using **AI-powered voice recognition**.  
 - Enhanced **accessibility and interaction**, redefining traditional gaming experiences.  
 
 ### 📌 **Pantry Pal AI**  
-🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/inventory-management-app))  
+🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT** | [GitHub Repo](https://github.com/vamsijavvadi7/inventory-management-app)
 - AI-powered web app for **pantry management**, allowing users to **track inventory & get recipe suggestions**.  
 - Integrated **text & image-based item additions**, turning everyday ingredients into creative meals.  
 
 ### 📌 **Flashcard Pro AI**  
-🛠 **Next.js, Material-UI, Firebase, Clerk, Gemini API** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/flashcard-saas))  
+🛠 **Next.js, Material-UI, Firebase, Clerk, Gemini API** | [GitHub Repo](https://github.com/vamsijavvadi7/flashcard-saas) 
 - AI-powered **interactive flashcard learning app** with **real-time user authentication**.  
 - Uses **Gemini AI models** for **personalized learning experiences**.  
 
 ### 📌 **AI CareerGuru**  
-🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT, Firebase** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/customer-support-ai))  
+🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT, Firebase** | [GitHub Repo](https://github.com/vamsijavvadi7/customer-support-ai)  
 - AI-driven **career guidance platform** offering **resume optimization & interview prep**.  
 - Uses **advanced AI models** to provide **personalized career recommendations**.  
 
 ### 📌 **Rate My Professor AI**  
-🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/ratemyporofessor))  
+🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo](https://github.com/vamsijavvadi7/ratemyporofessor)
 - AI-powered **professor recommendation system** using **RAG & vector search**.  
 - Matches student queries with **top 3 professor recommendations**.  
 
 ### 📌 **Health Assistant AI**  
-🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/HealthAssistant-AI))  
+🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo](https://github.com/vamsijavvadi7/HealthAssistant-AI)
 - AI-driven **personalized health assistant** providing **lifestyle & medical recommendations**.  
 - Uses **70-30 rule**: **70% lifestyle/medications & 30% genetics/family history**.  
 
