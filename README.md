@@ -88,7 +88,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VamsiJavvadi7&theme=algolia&no-frame=true&margin-w=10&column=5&rank=SSS,SS,S,AAA" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VamsiJavvadi7&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
