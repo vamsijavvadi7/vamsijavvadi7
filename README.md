@@ -86,10 +86,9 @@
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vamsijavvadi7&theme=algolia&no-frame=true&margin-w=10&column=5&rank=SSS,SS,S,AAA" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=VamsiJavvadi7&theme=algolia&no-frame=true&margin-w=10&column=5&rank=SSS,SS,S,AAA" alt="GitHub Trophies" />
 </p>
 
 ---
