@@ -46,19 +46,57 @@
 - Led frontend optimizations in **React.js**, increasing engagement by **15%** and reducing page load times by **20%**.  
 
 ---
-
 ## 🚀 Projects  
+
 ### 📌 **Electronic Health Record System**  
-🛠 **Angular, Java, SpringBoot, TypeScript** | **120 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/ehr)  
-- Built a scalable **EHR system** with **role-based access, patient registration, scheduling**, and **Kafka integration**.  
+🛠 **Angular, Java, SpringBoot, TypeScript, Microservices, Kafka, Docker** | **120 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/ehr)  
+- Developed a **scalable EHR system** enabling **patient registration, scheduling**, and **real-time data management**.  
+- Implemented **role-based access control**, **fault tolerance services**, and **synchronization with Kafka & Docker**.  
 
 ### 📌 **Dental Labs Mobile App**  
 🛠 **Flutter, Golang, MySQL** | **80 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/DentalLab-Pro)  
-- Developed an **Android app** improving faculty-student interaction by **40%** and clinical competencies by **60%**.  
+- Built an **AI-powered mobile app** improving **real-time faculty-student interactions** by **40%**.  
+- Replaced traditional paper-based evaluations, assisting **1,000+ students daily** in dental education.  
 
-### 📌 **ReactMovie Web Application**  
-🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/React-Movie-App)  [![Repo](https://img.shields.io/badge/Source%20Code-GitHub-green)]([repo-link](https://github.com/vamsijavvadi7/React-Movie-App)))
-- Integrated a **live movie database of 1M+ movies** with lazy loading & pagination for seamless performance.  
+### 📌 **MovieDB (React Movie App)**  
+🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/React-Movie-App)  
+- Created a **dynamic movie search platform** accessing **1M+ movie records** with **real-time updates**.  
+- Users can explore **detailed movie data, cast, ratings, and trending content** in a seamless UI.  
+
+### 📌 **Teaching Assistant Recruitment Portal**  
+🛠 **Java, JSP, MySQL, HTML, CSS, JavaScript** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/TA))  
+- Developed a **web application for TA recruitment**, improving **candidate selection & hiring processes**.  
+- Enabled seamless communication between **students, committees, and administrators**.  
+
+### 📌 **AI Voice-Controlled Snake Game**  
+🛠 **ReactJS, Material-UI, Teachable Machine** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/ml-snake-game-main))  
+- Engineered a **hands-free Snake game** using **AI-powered voice recognition**.  
+- Enhanced **accessibility and interaction**, redefining traditional gaming experiences.  
+
+### 📌 **Pantry Pal AI**  
+🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/inventory-management-app))  
+- AI-powered web app for **pantry management**, allowing users to **track inventory & get recipe suggestions**.  
+- Integrated **text & image-based item additions**, turning everyday ingredients into creative meals.  
+
+### 📌 **Flashcard Pro AI**  
+🛠 **Next.js, Material-UI, Firebase, Clerk, Gemini API** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/flashcard-saas))  
+- AI-powered **interactive flashcard learning app** with **real-time user authentication**.  
+- Uses **Gemini AI models** for **personalized learning experiences**.  
+
+### 📌 **AI CareerGuru**  
+🛠 **Next.js, Material-UI, Gemini API, AWS BlackRock, ChatGPT, Firebase** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/customer-support-ai))  
+- AI-driven **career guidance platform** offering **resume optimization & interview prep**.  
+- Uses **advanced AI models** to provide **personalized career recommendations**.  
+
+### 📌 **Rate My Professor AI**  
+🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/ratemyporofessor))  
+- AI-powered **professor recommendation system** using **RAG & vector search**.  
+- Matches student queries with **top 3 professor recommendations**.  
+
+### 📌 **Health Assistant AI**  
+🛠 **Next.js, Material-UI, Gemini, Pinecone, RAG** | [GitHub Repo]([#](https://github.com/vamsijavvadi7/HealthAssistant-AI))  
+- AI-driven **personalized health assistant** providing **lifestyle & medical recommendations**.  
+- Uses **70-30 rule**: **70% lifestyle/medications & 30% genetics/family history**.  
 
 ---
 
