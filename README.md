@@ -57,7 +57,7 @@
 - Developed an **Android app** improving faculty-student interaction by **40%** and clinical competencies by **60%**.  
 
 ### 📌 **ReactMovie Web Application**  
-🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/React-Movie-App)  
+🛠 **ReactJS, HTML, CSS, JavaScript** | **40 hours** | [GitHub Repo](https://github.com/vamsijavvadi7/React-Movie-App)  [![Repo](https://img.shields.io/badge/Source%20Code-GitHub-green)]([repo-link](https://github.com/vamsijavvadi7/React-Movie-App)))
 - Integrated a **live movie database of 1M+ movies** with lazy loading & pagination for seamless performance.  
 
 ---
